@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.024610
+#+DATE: 2015-08-30 20:59:34.380087
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_002-0052b> ¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大乘寶要義論卷第二¶
+大乘寶要義論卷第二¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿傳梵大師賜紫¶
@@ -75,7 +74,7 @@
 如來於聲授如來所。初發菩提心。彼星王如¶
 來昔為牧牛人。以末俱羅華供施因緣從是¶
 發心。名稱如來於電光如來所。初發菩提心。¶
-彼名稱如來昔為織師。以妙㲲邊縷供施因¶
+彼名稱如來昔為織師。以妙[疊*毛]邊縷供施因¶
 緣從是發心。明焰如來於無邊光如來所。初¶
 發菩提心。彼明焰如來昔為守城人。以一草¶
 燈供施因緣從是發心。難勝如來於堅固步¶

@@ -1,25 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:30.995702
+#+DATE: 2015-08-30 20:59:34.353574
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_001-0049c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1635¶
-
- 大乘寶要義論卷第一¶
+No. 1635¶
+大乘寶要義論卷第一¶
 ¶
 西天譯經三藏朝散大夫¶
-試鴻臚少卿傳梵大師賜紫¶
-沙門臣法護等奉　詔譯¶
+試鴻臚少卿傳梵大師賜紫沙門臣法護等奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸命十方無邊際
