@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.231366
+#+DATE: 2015-08-30 20:59:34.067557
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_010-0073a> 
 #+PROPERTY: JUAN 10
 ¶
-
- 大乘寶要義論卷第十¶
+大乘寶要義論卷第十¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -120,7 +119,7 @@
 德。經無量劫猶尚不能說一少分。何況如來¶
 無量智境。佛子。我今實言告汝。於如來前為¶
 我作證。假使十方無邊世界如微塵等一切¶
-佛剎證菩薩地者。其數充滿。如稻麻竹𥯤甘¶
+佛剎證菩薩地者。其數充滿。如稻麻竹[竺-二+韋]甘¶
 蔗叢林。彼等菩薩經無邊劫。宣說開示如來¶
 所有一智境界。百分不及一。乃至俱胝那由¶
 他百千及譬喻分亦不及一。入如來功德智¶

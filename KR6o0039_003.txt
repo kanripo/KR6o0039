@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.049756
+#+DATE: 2015-08-30 20:59:33.924264
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_003-0054c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 大乘寶要義論卷第三¶
+大乘寶要義論卷第三¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿傳梵大師賜紫¶
