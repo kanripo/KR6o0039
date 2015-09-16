@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.201914
+#+DATE: 2015-08-30 20:59:32.167390
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_009-0070c> ¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大乘寶要義論卷第九¶
+大乘寶要義論卷第九¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -166,7 +165,7 @@
 便解。此等慧及方便二法和合。當知皆是菩¶
 薩之行。云何是菩薩行。所謂非凡夫行。非賢¶
 聖行。是菩薩行。在於生死不為染污。在於涅¶
-槃不永寂滅。是菩薩行。雖求四諦智亦不非¶
+槃不求寂滅。是菩薩行。雖求四諦智亦不非¶
 時取證涅槃。是菩薩行。雖觀內空而常思念¶
 於三有中示現受生。是菩薩行。雖觀無生而¶
 不入正位。是菩薩行。雖攝一切有情而不染¶
