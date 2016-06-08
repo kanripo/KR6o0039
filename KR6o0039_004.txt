@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.075280
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:49
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_004-0057b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 大乘寶要義論卷第四¶
+大乘寶要義論卷第四¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿傳梵大師賜紫¶
@@ -73,9 +72,9 @@
 　當觀菩提最勝道
 　是即先佛所親近¶
 　觀已菩提聖道圓
-　獲得諸佛無上智
+　獲得諸佛無上智」
 #+END_VERSE
-」¶
+¶
 
 如正法念處經云。諸地獄中所有罪人。時彼¶
 獄卒於日日中數教示云。汝等罪人自造惡¶
@@ -264,7 +263,7 @@
 袈裟片。見已即時右繞頂禮出林而去。次有¶
 羅剎女名佉禰囉㮏帝。與千眷屬。次有羅剎¶
 女名猙獰髮。次有羅剎女名曰劍口。次第而¶
-來入於林中。各見其人剃除鬚髮被袈裟片。¶
+來入於林中。各見其人剃除鬚髮被袈娑片。¶
 見已雖復彼彼飢急不敢侵食頂禮而去。¶
 
 又復過去有王名最勝福。彼有智臣。以其法¶

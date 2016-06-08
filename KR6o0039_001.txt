@@ -1,33 +1,31 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:30.995702
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:49
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_001-0049c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1635¶
-
- 大乘寶要義論卷第一¶
+No. 1635¶
+大乘寶要義論卷第一¶
 ¶
 西天譯經三藏朝散大夫¶
-試鴻臚少卿傳梵大師賜紫¶
-沙門臣法護等奉　詔譯¶
+試鴻臚少卿傳梵大師賜紫沙門臣法護等奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸命十方無邊際
 　所住一切世界中¶
 　過未現在諸如來
-　菩薩聲聞緣覺等
+　菩薩聲聞緣覺等」
 #+END_VERSE
-」¶
+¶
 
 智者當知。人身難得。於剎那間。成諸勝行亦¶
 復為難。若於此中不起思惟作利益事。此生¶

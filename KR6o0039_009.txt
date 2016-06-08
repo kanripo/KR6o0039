@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:31.201914
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:49
 #+TITLE: 大乘寶要義論
 #+PROPERTY: CBETA_ID T32n1635
 #+PROPERTY: ID KR6o0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1635
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0039_T_000-0049c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0039_T_009-0070c> ¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大乘寶要義論卷第九¶
+大乘寶要義論卷第九¶
 ¶
 譯經三藏朝散大夫試鴻臚少卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -71,9 +70,9 @@
 　於甚深法能信解
 　獲得一切勝福生¶
 　諸有世間出世間
-　辦所作事至成佛
+　辦所作事至成佛」
 #+END_VERSE
-」¶
+¶
 
 寶授經云。復次妙吉祥。若菩薩經百千劫善¶
 修六波羅蜜多具善巧方便。若有人於此正¶
